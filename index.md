@@ -5,12 +5,12 @@ title: Unitarian Bible – Genesis 1–7
 
 # 🌿 Welcome to the Unitarian Bible Project
 
-This site presents a bilingual, elder-accessible translation of Genesis 1–7, harmonising Christian and Jewish traditions. It uses:
+This site presents an elder-accessible translation of Genesis 1–7, harmonising Christian and Jewish traditions. It uses:
 
 - British English spelling
 - 'Adonai' for the divine name
 - 'Elohim' consistently for the Creator
-- Malayalam base text from [MALOVBSI](https://www.bible.com/ml/bible/1693/GEN.1.MALOVBSI)
+  
 
 ## 📖 Chapters
 
